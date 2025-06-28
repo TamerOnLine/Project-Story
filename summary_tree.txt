@@ -3,6 +3,20 @@
 │   └── 📁 workflows/
 │       └── docs.yml
 ├── 📁 src/
+│   ├── 📁 docs/
+│   │   ├── 📁 api/
+│   │   │   ├── cli.md
+│   │   │   └── utils.md
+│   │   ├── 📁 cli/
+│   │   │   └── usage.md
+│   │   ├── 📁 getting-started/
+│   │   │   ├── installation.md
+│   │   │   └── quickstart.md
+│   │   ├── architecture.md
+│   │   ├── contributing.md
+│   │   ├── faq.md
+│   │   ├── index.md
+│   │   └── license.md
 │   └── 📁 project_story/
 │       ├── __init__py
 │       └── cli.py
