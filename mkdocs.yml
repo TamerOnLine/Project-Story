@@ -1,4 +1,5 @@
 site_name: Project Story Docs
+docs_dir: src/docs
 site_url: https://tameronline.github.io/Project-Story/
 repo_url: https://github.com/tameronline/Project-Story
 repo_name: GitHub
