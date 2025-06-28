@@ -1,0 +1,28 @@
+📁 Project-Story/
+├── 📁 .github/
+│   └── 📁 workflows/
+│       └── docs.yml
+├── 📁 src/
+│   └── 📁 project_story/
+│       ├── __init__py
+│       └── cli.py
+├── 📁 vscode/
+│   ├── launch.json
+│   └── tasks.json
+├── .gitignore
+├── ARCHITECTURE.md
+├── CODE_OF_CONDUCT.md
+├── Dev-README.md
+├── Dev_requirements.txt
+├── LICENSE
+├── MANIFEST.in
+├── README.md
+├── create-venv.py
+├── gh-pages-requirements.txt
+├── mkdocs.yml
+├── project_config.json
+├── project_story.md
+├── pyproject.toml
+├── requirements.txt
+├── setup.py
+└── venv_switcher.py

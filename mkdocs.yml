@@ -1,0 +1,5 @@
+site_name: Project Story Docs
+nav:
+  - Home: index.md
+theme:
+  name: material
